@@ -616,7 +616,7 @@ CONFIDENCE_THRESHOLD = 0.90
 MIT License - See LICENSE file for details
 
 ```
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Mannankhan-sys]
 
 Permission is hereby granted, free of charge, to use, modify,
 and distribute this software for educational and commercial purposes.
